@@ -1,0 +1,51 @@
+[
+  {
+    "id": "07c0103625ce6149e5bcb482",
+    "email": "test@gmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeMe1234",
+    "role": "admin"
+  },
+  {
+    "id": "2d9ab13e3d24ce0ad3e21ca9",
+    "email": "test@yahoo.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeIt1234",
+    "role": "user"
+  },
+  {
+    "id": "c42258d636a27f2bd5f79e3c",
+    "email": "test2@hotmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeMe1234",
+    "role": "moderator"
+  },
+  {
+    "id": "b8b3c0f0f540e48bd59d965c",
+    "email": "test@gmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeMe1234",
+    "role": "admin"
+  },
+  {
+    "id": "5ce63b9e8a80896f022d8133",
+    "email": "test@hotmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeIt1234",
+    "role": "moderator"
+  },
+  {
+    "id": "2338601693ff971c8108b94e",
+    "email": "test@yahoo.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeIt1234",
+    "role": "user"
+  },
+  {
+    "id": "9ba0be8060c849031bd48b07",
+    "email": "test2@hotmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeMe1234",
+    "role": "moderator"
+  }
+]
