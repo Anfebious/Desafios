@@ -47,5 +47,33 @@
     "photo": "C://Users/Desktop",
     "password": "changeMe1234",
     "role": "moderator"
+  },
+  {
+    "id": "2729954eb80fdedc6157bf4f",
+    "email": "test@gmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeMe1234",
+    "role": "admin"
+  },
+  {
+    "id": "c5022333f96efa7316ceabc1",
+    "email": "test@hotmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeIt1234",
+    "role": "moderator"
+  },
+  {
+    "id": "c533ec3e41f11ee9bf0aad86",
+    "email": "test@yahoo.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeIt1234",
+    "role": "user"
+  },
+  {
+    "id": "5e176cf9b4d5eff28503fe68",
+    "email": "test2@hotmail.com",
+    "photo": "C://Users/Desktop",
+    "password": "changeMe1234",
+    "role": "moderator"
   }
 ]

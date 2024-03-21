@@ -3,7 +3,7 @@ const crypto = require("crypto")
 class ProductManagerFs {
     constructor() {
         this.products = []
-        this.path = "./products.json"
+        this.path = "./files/products.json"
         this.init()
     }
     init() {

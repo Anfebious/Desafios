@@ -542,5 +542,85 @@
     "photo": "C://Users/Desktop",
     "category": "Chocolateria",
     "stock": 100
+  },
+  {
+    "id": "006cdc700656cd9c9f98cbf8",
+    "title": "Curso de Tortas Modernas",
+    "price": 10000,
+    "photo": "C://Users/Desktop",
+    "category": "Tortas",
+    "stock": 100
+  },
+  {
+    "id": "4d595a7a99aa43fba2f03d3b",
+    "title": "Curso de Tortas Exoticas",
+    "price": 12000,
+    "photo": "C://Users/Desktop",
+    "category": "Tortas",
+    "stock": 100
+  },
+  {
+    "id": "74b329adabc3fbe687403e9b",
+    "title": "Curso de Tortas Clasicas",
+    "price": 12000,
+    "photo": "C://Users/Desktop",
+    "category": "Tortas",
+    "stock": 100
+  },
+  {
+    "id": "84677fb0908a6d588fa2ffe5",
+    "title": "Curso de Postres Clasicos",
+    "price": 11000,
+    "photo": "C://Users/Desktop",
+    "category": "Postres",
+    "stock": 100
+  },
+  {
+    "id": "3c2602b1e94b4c42c86f67d3",
+    "title": "Curso de Postres Modernos",
+    "price": 10000,
+    "photo": "C://Users/Desktop",
+    "category": "Postres",
+    "stock": 100
+  },
+  {
+    "id": "9ca24fea116adda9dd0008b3",
+    "title": "Curso de Tartas Saladas",
+    "price": 9000,
+    "photo": "C://Users/Desktop",
+    "category": "Tartas",
+    "stock": 100
+  },
+  {
+    "id": "e1490e5363cd0e85effd8ca0",
+    "title": "Curso de Tartas Clasicas",
+    "price": 9500,
+    "photo": "C://Users/Desktop",
+    "category": "Tartas",
+    "stock": 100
+  },
+  {
+    "id": "06bf55ac92f76831e5749f1a",
+    "title": "Curso de Bomboneria",
+    "price": 15000,
+    "photo": "C://Users/Desktop",
+    "category": "Chocolateria",
+    "stock": 100
+  },
+  {
+    "id": "7bc6b1861716cd500b29ecfb",
+    "title": "Curso de Huevos de Pascua",
+    "price": 15000,
+    "photo": "C://Users/Desktop",
+    "category": "Chocolateria",
+    "stock": 100
+  },
+  {
+    "id": "370c2a95a7291106b1d79f49",
+    "title": "Curso de Chocolateria Profesional",
+    "price": 20000,
+    "photo": "C://Users/Desktop",
+    "category": "Chocolateria",
+    "stock": 100
   }
 ]

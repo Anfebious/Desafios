@@ -3,7 +3,7 @@ const crypto = require("crypto")
 class UsersManagerFs {
     constructor() {
         this.users = []
-        this.path = "./users.json"
+        this.path = "./files/users.json"
         this.init()
     }
     init() {
